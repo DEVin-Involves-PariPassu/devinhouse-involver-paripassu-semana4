@@ -3,9 +3,7 @@
 
 name: Java CI with Maven
 
-on:
-  push: 
-    - master
+on: [push]
 
 env: Prod
 
